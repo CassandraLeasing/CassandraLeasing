@@ -1,6 +1,6 @@
 ## Cassandra Leasing Services<br>
 
-Cassandra Leasing Services (CLS) is a digital assets management service for enterprise. We administer telephone, website (including domain names), electronic mail hosting, and other digital services on an open-ended basis.<br>
+Cassandra Leasing Services (CLS) is a digital assets management service for enterprise.<br>
 <br>
 New clients may apply for services at our Notting Hill showroom:<br>
 <br>
